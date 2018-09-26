@@ -5,4 +5,5 @@ while i<5:
 	i+=1
 	while j<5:
 		print 1
-	j+1=1
+	j+=1
+	continue
